@@ -3,8 +3,8 @@
 // Copyright (C) 2015 恒亿慧通
 //
 // 文件名：AssetsCategoryBLL.cs
-// 文件功能描述：
-// 作者：biht
+// 文件功能描述： 好像是资产类别吧
+// 作者：renguoqiang
 // 
 // 创建时间：2015年7月16日
 //
